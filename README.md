@@ -8,9 +8,9 @@
 
 #### Contributors
 
-* [Santiago](httpss://github.com/santiaago)
-* [Remy](httpss://github.com/rjourde)
-* [Carmen](httpss://plus.google.com/+CarmenRebolledo)
+* [Santiago](https://github.com/santiaago)
+* [Remy](https://github.com/rjourde)
+* [Carmen](https://plus.google.com/+CarmenRebolledo)
 
 #### Blog post:
 
@@ -272,13 +272,13 @@ Deploy
 
 Easy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](httpss://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
 Manual
 
 **Note:** heroku is now configured to build and deploy any `git push`to `master`. If you still want to manual deploy the app follow the steps below.
 
-Before you start be sure to have the proper rsa key. [See Managing Your SSH Keys](httpss://devcenter.heroku.com/articles/keys) for more details and that. Also be sure to be logged in with heroku.
+Before you start be sure to have the proper rsa key. [See Managing Your SSH Keys](https://devcenter.heroku.com/articles/keys) for more details and that. Also be sure to be logged in with heroku.
 
     > heroku login
     Enter your Heroku credentials.
@@ -304,7 +304,7 @@ After that you can deploy as follows:
 
     -----> Compressing... done, 1.5MB
     -----> Launching... done, v6
-           httpss://tinygraphs.herokuapp.com/ deployed to Heroku
+           https://tinygraphs.herokuapp.com/ deployed to Heroku
 
     To git@heroku.com:tinygraphs.git
        56a3000..5572085  master -> master
