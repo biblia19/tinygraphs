@@ -1,5 +1,6 @@
 [tinygraphs](http://tinygraphs.com)
 ==============
+[![Docker Image CI](https://github.com/biblia19/tinygraphs/actions/workflows/docker-image.yml/badge.svg)](https://github.com/biblia19/tinygraphs/actions/workflows/docker-image.yml)
 
 **tinygraphs** is an avatar generator web service. Checkout [tinygraphs.com](http://www.tinygraphs.com/) to try it.
 
