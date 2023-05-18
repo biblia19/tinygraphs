@@ -1,8 +1,8 @@
-[tinygraphs](https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io)
+[tinygraphs](https://tinygraphs.fly.dev/)
 ==============
 [![Docker Image CI](https://github.com/biblia19/tinygraphs/actions/workflows/docker-image.yml/badge.svg)](https://github.com/biblia19/tinygraphs/actions/workflows/docker-image.yml)
 
-**tinygraphs** is an avatar generator web service. Checkout [tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io](https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/) to try it.
+**tinygraphs** is an avatar generator web service. Checkout [https://tinygraphs.fly.dev/](https://tinygraphs.fly.dev/) to try it.
 
 [![baby-gopher](https://raw.githubusercontent.com/drnic/babygopher-site/gh-pages/images/babygopher-badge.png)](https://www.babygopher.org)
 
@@ -19,166 +19,166 @@
 How to use:
 ======
 
-* You can set the HTML source of the image to point directly to [tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io](https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io)
+* You can set the HTML source of the image to point directly to [tinygraphs.fly.dev](https://tinygraphs.fly.dev)
 ~~~html
-<img src="https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/squares/helloworld">
+<img src="https://tinygraphs.fly.dev/squares/helloworld">
 ~~~
 * You can save the image and use it directly on your site
 * You can `go get` this repo and use it.
 
-*just remember to give us credit with a link to tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io ;)*
+*just remember to give us credit with a link to tinygraphs.fly.dev ;)*
 
 ## Supported routes:
 
-`https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/squares/anything`
+`https://tinygraphs.fly.dev/squares/anything`
 
-![squares](https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/squares/anything?size=120&theme=frogideas&numcolors=2&fmt=svg) ![squares](https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/squares/anything?size=120&theme=frogideas&numcolors=3&fmt=svg) ![squares](https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/squares/anything?size=120&theme=frogideas&numcolors=4&fmt=svg)
+![squares](https://tinygraphs.fly.dev/squares/anything?size=120&theme=frogideas&numcolors=2&fmt=svg) ![squares](https://tinygraphs.fly.dev/squares/anything?size=120&theme=frogideas&numcolors=3&fmt=svg) ![squares](https://tinygraphs.fly.dev/squares/anything?size=120&theme=frogideas&numcolors=4&fmt=svg)
 
-`https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/isogrids/helloworld`
+`https://tinygraphs.fly.dev/isogrids/helloworld`
 
-![squares](https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/isogrids/helloworld?size=120&theme=heatwave) ![squares](https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/isogrids/helloworld?size=120&theme=heatwave&numcolors=3) ![squares](https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/isogrids/helloworld?size=120&theme=heatwave&numcolors=4)
+![squares](https://tinygraphs.fly.dev/isogrids/helloworld?size=120&theme=heatwave) ![squares](https://tinygraphs.fly.dev/isogrids/helloworld?size=120&theme=heatwave&numcolors=3) ![squares](https://tinygraphs.fly.dev/isogrids/helloworld?size=120&theme=heatwave&numcolors=4)
 
-`https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/spaceinvaders/helloworld`
+`https://tinygraphs.fly.dev/spaceinvaders/helloworld`
 
-![squares](https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/spaceinvaders/holamundo?size=120&theme=frogideas)
-![squares](https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/spaceinvaders/hello?size=120&theme=berrypie) ![squares](https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/spaceinvaders/world?size=120&theme=bythepool)
+![squares](https://tinygraphs.fly.dev/spaceinvaders/holamundo?size=120&theme=frogideas)
+![squares](https://tinygraphs.fly.dev/spaceinvaders/hello?size=120&theme=berrypie) ![squares](https://tinygraphs.fly.dev/spaceinvaders/world?size=120&theme=bythepool)
 
-`https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/squares/banner/random?h=50&xs=100`
+`https://tinygraphs.fly.dev/squares/banner/random?h=50&xs=100`
 
-![square random banner](https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/squares/banner/random?h=50&xs=100&theme=frogideas&fmt=svg)
+![square random banner](https://tinygraphs.fly.dev/squares/banner/random?h=50&xs=100&theme=frogideas&fmt=svg)
 
-![square random banner](https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/squares/banner/random?h=50&xs=100&theme=seascape&fmt=svg)
+![square random banner](https://tinygraphs.fly.dev/squares/banner/random?h=50&xs=100&theme=seascape&fmt=svg)
 
-![square random banner](https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/squares/banner/random?h=50&xs=100&theme=heatwave&fmt=svg)
+![square random banner](https://tinygraphs.fly.dev/squares/banner/random?h=50&xs=100&theme=heatwave&fmt=svg)
 
-`https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/squares/banner/random/gradient?theme=frogideas&xs=100`
+`https://tinygraphs.fly.dev/squares/banner/random/gradient?theme=frogideas&xs=100`
 
-![square random banner](https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/squares/banner/random/gradient?theme=frogideas&h=50&xs=100)
+![square random banner](https://tinygraphs.fly.dev/squares/banner/random/gradient?theme=frogideas&h=50&xs=100)
 
-![square random banner](https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/squares/banner/random/gradient?theme=seascape&h=50&xs=100)
+![square random banner](https://tinygraphs.fly.dev/squares/banner/random/gradient?theme=seascape&h=50&xs=100)
 
-![square random banner](https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/squares/banner/random/gradient?theme=duskfalling&h=50&xs=100)
+![square random banner](https://tinygraphs.fly.dev/squares/banner/random/gradient?theme=duskfalling&h=50&xs=100)
 
-`https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/isogrids/banner/random?h=50&xt=100`
+`https://tinygraphs.fly.dev/isogrids/banner/random?h=50&xt=100`
 
-![isogrids random banner](https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/isogrids/banner/random?h=50&xt=100&theme=frogideas)
+![isogrids random banner](https://tinygraphs.fly.dev/isogrids/banner/random?h=50&xt=100&theme=frogideas)
 
-![isogrids random banner](https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/isogrids/banner/random?h=50&xt=100&theme=seascape)
+![isogrids random banner](https://tinygraphs.fly.dev/isogrids/banner/random?h=50&xt=100&theme=seascape)
 
-![isogrids random banner](https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/isogrids/banner/random?h=50&xt=100&theme=heatwave)
+![isogrids random banner](https://tinygraphs.fly.dev/isogrids/banner/random?h=50&xt=100&theme=heatwave)
 
-`https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/isogrids/banner/random/gradient?theme=frogideas&h=50&xt=100`
+`https://tinygraphs.fly.dev/isogrids/banner/random/gradient?theme=frogideas&h=50&xt=100`
 
-![square random banner](https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/isogrids/banner/random/gradient?theme=frogideas&h=50&xt=100)
+![square random banner](https://tinygraphs.fly.dev/isogrids/banner/random/gradient?theme=frogideas&h=50&xt=100)
 
-![square random banner](https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/isogrids/banner/random/gradient?theme=seascape&h=50&xt=100)
+![square random banner](https://tinygraphs.fly.dev/isogrids/banner/random/gradient?theme=seascape&h=50&xt=100)
 
-![square random banner](https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/isogrids/banner/random/gradient?theme=heatwave&h=50&xt=100)
+![square random banner](https://tinygraphs.fly.dev/isogrids/banner/random/gradient?theme=heatwave&h=50&xt=100)
 
 ##Lab routes:
 
-`https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/labs/checkerboard`
+`https://tinygraphs.fly.dev/labs/checkerboard`
 
-![checkerboard](https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/labs/checkerboard?size=120)
+![checkerboard](https://tinygraphs.fly.dev/labs/checkerboard?size=120)
 
-`https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/labs/squares/random`
+`https://tinygraphs.fly.dev/labs/squares/random`
 
-![random](https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/labs/squares/random?size=120&theme=summerwarmth&numcolors=4) ![random](https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/labs/squares/random?size=120&theme=daisygarden&numcolors=4)
-![random](https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/labs/squares/random?size=120&theme=duskfalling&numcolors=4)
+![random](https://tinygraphs.fly.dev/labs/squares/random?size=120&theme=summerwarmth&numcolors=4) ![random](https://tinygraphs.fly.dev/labs/squares/random?size=120&theme=daisygarden&numcolors=4)
+![random](https://tinygraphs.fly.dev/labs/squares/random?size=120&theme=duskfalling&numcolors=4)
 
-`https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/labs/isogrids/random`
+`https://tinygraphs.fly.dev/labs/isogrids/random`
 
-![random](https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/labs/isogrids/random?size=120&theme=seascape) ![random](https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/labs/isogrids/random?size=120&theme=seascape&numcolors=3) ![random](https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/labs/isogrids/random?size=120&theme=seascape&numcolors=4)
+![random](https://tinygraphs.fly.dev/labs/isogrids/random?size=120&theme=seascape) ![random](https://tinygraphs.fly.dev/labs/isogrids/random?size=120&theme=seascape&numcolors=3) ![random](https://tinygraphs.fly.dev/labs/isogrids/random?size=120&theme=seascape&numcolors=4)
 
-`https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/labs/isogrids/hexa`
+`https://tinygraphs.fly.dev/labs/isogrids/hexa`
 
-![hexa](https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/labs/isogrids/hexa/hello?size=120&theme=frogideas&numcolors=4) ![hexa](https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/labs/isogrids/hexa/hello?size=120&theme=bythepool&numcolors=4) ![hexa](https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/labs/isogrids/hexa/hello?size=120&theme=berrypie&numcolors=4)
+![hexa](https://tinygraphs.fly.dev/labs/isogrids/hexa/hello?size=120&theme=frogideas&numcolors=4) ![hexa](https://tinygraphs.fly.dev/labs/isogrids/hexa/hello?size=120&theme=bythepool&numcolors=4) ![hexa](https://tinygraphs.fly.dev/labs/isogrids/hexa/hello?size=120&theme=berrypie&numcolors=4)
 
-`https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/labs/isogrids/hexa16`
+`https://tinygraphs.fly.dev/labs/isogrids/hexa16`
 
-![hexa16](https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/labs/isogrids/hexa16/hello?size=120&theme=frogideas&numcolors=2) ![hexa16](https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/labs/isogrids/hexa16/hello?size=120&theme=bythepool&numcolors=3) ![hexa16](https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/labs/isogrids/hexa16/hello?size=120&theme=berrypie&numcolors=4)
+![hexa16](https://tinygraphs.fly.dev/labs/isogrids/hexa16/hello?size=120&theme=frogideas&numcolors=2) ![hexa16](https://tinygraphs.fly.dev/labs/isogrids/hexa16/hello?size=120&theme=bythepool&numcolors=3) ![hexa16](https://tinygraphs.fly.dev/labs/isogrids/hexa16/hello?size=120&theme=berrypie&numcolors=4)
 
-`https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/labs/squares/banner/gradient`
+`https://tinygraphs.fly.dev/labs/squares/banner/gradient`
 
-![gradient colors squares](https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/labs/squares/banner/gradient?h=100&xs=50&theme=frogideas&xs=25)
+![gradient colors squares](https://tinygraphs.fly.dev/labs/squares/banner/gradient?h=100&xs=50&theme=frogideas&xs=25)
 
-![gradient colors squares](https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/labs/squares/banner/gradient?h=100&xs=50&theme=frogideas&xs=25&numcolors=2&gx2=40&gx1=0&gy1=50&gy2=100)
+![gradient colors squares](https://tinygraphs.fly.dev/labs/squares/banner/gradient?h=100&xs=50&theme=frogideas&xs=25&numcolors=2&gx2=40&gx1=0&gy1=50&gy2=100)
 
-`https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/labs/isogrids/banner/gradient`
+`https://tinygraphs.fly.dev/labs/isogrids/banner/gradient`
 
-![gradient colors isogrids](https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/labs/isogrids/banner/gradient?h=100&xs=50&theme=frogideas&xs=25)
+![gradient colors isogrids](https://tinygraphs.fly.dev/labs/isogrids/banner/gradient?h=100&xs=50&theme=frogideas&xs=25)
 
-![gradient colors isogrids](https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/labs/isogrids/banner/gradient?h=100&xs=50&theme=frogideas&xs=25&numcolors=2&gx2=40&gx1=0&gy1=50&gy2=100)
+![gradient colors isogrids](https://tinygraphs.fly.dev/labs/isogrids/banner/gradient?h=100&xs=50&theme=frogideas&xs=25&numcolors=2&gx2=40&gx1=0&gy1=50&gy2=100)
 
 ## Parameters:
 
-* **size**: `tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/squares/hello?size=60`
-* **formats**: `tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/squares/hello?fmt=svg`
+* **size**: `tinygraphs.fly.dev/squares/hello?size=60`
+* **formats**: `tinygraphs.fly.dev/squares/hello?fmt=svg`
 
     The default format is `SVG`.
 
     All routes support SVG format, except `Square` routes who also support JPEG.
 
-* **background and foreground**: `tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/squares/hello?bg=ff4008&fg=04d6f2`
+* **background and foreground**: `tinygraphs.fly.dev/squares/hello?bg=ff4008&fg=04d6f2`
 
     You can specify the color of the background or foreground by using parameters `bg` and `fg` and passing an hexadecimal value of the color:
 
-* **theme**: `tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/labs/squares/random?theme=frogideas`
+* **theme**: `tinygraphs.fly.dev/labs/squares/random?theme=frogideas`
 
     You can specify the theme you want to take into account in the image.
 
-    ![theme](https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/labs/squares/random?theme=frogideas&size=120&fmt=svg)
+    ![theme](https://tinygraphs.fly.dev/labs/squares/random?theme=frogideas&size=120&fmt=svg)
 
     Here is the list of existing themes:
-    * ![theme](https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/themes/base?fmt=svg&h=20) base
-    * ![theme](https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/themes/sugarsweets?fmt=svg&h=20) sugarsweets
-    * ![theme](https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/themes/heatwave?fmt=svg&h=20) heatwave
-    * ![theme](https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/themes/daisygarden?fmt=svg&h=20)daisygarden
-    * ![theme](https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/themes/seascape?fmt=svg&h=20) seascape
-    * ![theme](https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/themes/summerwarmth?fmt=svg&h=20) summerwarmth
-    * ![theme](https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/themes/bythepool?fmt=svg&h=20) bythepool
-    * ![theme](https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/themes/duskfalling?fmt=svg&h=20) duskfalling
-    * ![theme](https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/themes/frogideas?fmt=svg&h=20) frogideas
-    * ![theme](https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/themes/berrypie?fmt=svg&h=20) berrypie
+    * ![theme](https://tinygraphs.fly.dev/themes/base?fmt=svg&h=20) base
+    * ![theme](https://tinygraphs.fly.dev/themes/sugarsweets?fmt=svg&h=20) sugarsweets
+    * ![theme](https://tinygraphs.fly.dev/themes/heatwave?fmt=svg&h=20) heatwave
+    * ![theme](https://tinygraphs.fly.dev/themes/daisygarden?fmt=svg&h=20)daisygarden
+    * ![theme](https://tinygraphs.fly.dev/themes/seascape?fmt=svg&h=20) seascape
+    * ![theme](https://tinygraphs.fly.dev/themes/summerwarmth?fmt=svg&h=20) summerwarmth
+    * ![theme](https://tinygraphs.fly.dev/themes/bythepool?fmt=svg&h=20) bythepool
+    * ![theme](https://tinygraphs.fly.dev/themes/duskfalling?fmt=svg&h=20) duskfalling
+    * ![theme](https://tinygraphs.fly.dev/themes/frogideas?fmt=svg&h=20) frogideas
+    * ![theme](https://tinygraphs.fly.dev/themes/berrypie?fmt=svg&h=20) berrypie
 
 
-* **numcolors**: `tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/labs/squares/random?theme=summerwarmth&numcolors=4`
+* **numcolors**: `tinygraphs.fly.dev/labs/squares/random?theme=summerwarmth&numcolors=4`
 
     You can specify the number of colors that you want to render the image.
     Default value is **2** and can be extended to **4**.
 
-    ![theme](https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/labs/squares/random?theme=frogideas&size=120&fmt=svg&numcolors=2) ![theme](https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/labs/squares/random?theme=frogideas&size=120&fmt=svg&numcolors=3) ![theme](https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/labs/squares/random?theme=frogideas&size=120&fmt=svg&numcolors=4)
+    ![theme](https://tinygraphs.fly.dev/labs/squares/random?theme=frogideas&size=120&fmt=svg&numcolors=2) ![theme](https://tinygraphs.fly.dev/labs/squares/random?theme=frogideas&size=120&fmt=svg&numcolors=3) ![theme](https://tinygraphs.fly.dev/labs/squares/random?theme=frogideas&size=120&fmt=svg&numcolors=4)
 
 * **inv**:
-`tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/squares/hello?theme=frogideas&numcolors=2&inv=1`
+`tinygraphs.fly.dev/squares/hello?theme=frogideas&numcolors=2&inv=1`
 
     You can specify if you want to see the colors inverted.
     Default value is **false**. `inv` parameter works with theme colors or default (black and white) colors. The number of colors has to be equal to **2**.
 
-    ![normal](https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/squares/hello?theme=frogideas&size=120&fmt=svg&numcolors=2&inv=0) ![inverse](https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/squares/hello?theme=frogideas&size=120&fmt=svg&numcolors=2&inv=1)
+    ![normal](https://tinygraphs.fly.dev/squares/hello?theme=frogideas&size=120&fmt=svg&numcolors=2&inv=0) ![inverse](https://tinygraphs.fly.dev/squares/hello?theme=frogideas&size=120&fmt=svg&numcolors=2&inv=1)
 
 * **order**:
-`tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/squares/hello?theme=frogideas&numcolors=4&order=3&order=2&order=1&order=0`
+`tinygraphs.fly.dev/squares/hello?theme=frogideas&numcolors=4&order=3&order=2&order=1&order=0`
 
     You can specify the order in which you want to see the colors by using the `order` parameter. Just add the indexes in which you wish to see the colors to the order array (indexes are zero based)
     Like so: `order=3&order=2&order=1&order=0`
 
-    ![normal](https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/squares/hello?theme=seascape&size=120&fmt=svg&numcolors=4)
-    ![reorder](https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/squares/hello?theme=seascape&size=120&fmt=svg&numcolors=4&order=3&order=2&order=1&order=0)
+    ![normal](https://tinygraphs.fly.dev/squares/hello?theme=seascape&size=120&fmt=svg&numcolors=4)
+    ![reorder](https://tinygraphs.fly.dev/squares/hello?theme=seascape&size=120&fmt=svg&numcolors=4&order=3&order=2&order=1&order=0)
 
 * **lines**:
-`tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/isogrids/hello?lines=4`
+`tinygraphs.fly.dev/isogrids/hello?lines=4`
 
  You can specify the number of lines that an isogrid can have using the `lines`parameter. **Default** parameter is **6**. Value has to be greater or equal to 4.
 
- ![number of lines in isogrid image.](https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/isogrids/hello?lines=4&size=120&fmt=svg)
+ ![number of lines in isogrid image.](https://tinygraphs.fly.dev/isogrids/hello?lines=4&size=120&fmt=svg)
 
 * **colors**:
 
- `tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/isogrids/hello?lines=4&colors=43e0e8&colors=e84b43`
+ `tinygraphs.fly.dev/isogrids/hello?lines=4&colors=43e0e8&colors=e84b43`
  You can specify use you own colors by using the `colors` parameter and passing hexa colors.
 
-    ![isogrid with custom colors](https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/isogrids/hello?lines=4&size=120&colors=43e0e8&colors=e84b43)
+    ![isogrid with custom colors](https://tinygraphs.fly.dev/isogrids/hello?lines=4&size=120&colors=43e0e8&colors=e84b43)
 
 * **banner parameters:**
     * `h`: height parameter.
@@ -188,16 +188,16 @@ How to use:
     * `theme`: tinygraphs theme to use in banner.
     * `numcolors`: number of colors to take into account when rendering banner.
 
-   `tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/isogrids/banner/random/gradient?theme=bythepool&numcolors=4`
+   `tinygraphs.fly.dev/isogrids/banner/random/gradient?theme=bythepool&numcolors=4`
 
- ![isogrid gradient banner.](https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/isogrids/banner/random/gradient?h=75&xt=80&theme=bythepool&numcolors=4)
+ ![isogrid gradient banner.](https://tinygraphs.fly.dev/isogrids/banner/random/gradient?h=75&xt=80&theme=bythepool&numcolors=4)
 
 * **random banner parameters:**
     * `p`: probability of the main color in the banner. Default value is `0.5`. Values should be between `0` and `1`
 
-    `tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/labs/isogrids/banner/gradient?theme=bythepool&p=0.1`
+    `tinygraphs.fly.dev/labs/isogrids/banner/gradient?theme=bythepool&p=0.1`
 
-    ![isogrid gradient banner.](https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/labs/isogrids/banner/gradient?h=75&xt=80&theme=bythepool&numcolors=2&p=0.1)
+    ![isogrid gradient banner.](https://tinygraphs.fly.dev/labs/isogrids/banner/gradient?h=75&xt=80&theme=bythepool&numcolors=2&p=0.1)
 
 * **isogrid color gradient parameters**
 
@@ -207,9 +207,9 @@ How to use:
     * `gx2`: second gradient coordinate along x axis.
     * `gy2`: second gradient coordinate along y axis.
 
-    `tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/labs/isogrids/banner/gradient?theme=bythepool&xt=4&h=120&w=120&gx1=0&gy1=0&gy2=60&gx2=60`
+    `tinygraphs.fly.dev/labs/isogrids/banner/gradient?theme=bythepool&xt=4&h=120&w=120&gx1=0&gy1=0&gy2=60&gx2=60`
 
-    ![isogrid color gradient](https://tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io/labs/isogrids/banner/gradient?theme=bythepool&xt=4&h=120&w=120&gx1=0&gy1=0&gy2=60&gx2=60)
+    ![isogrid color gradient](https://tinygraphs.fly.dev/labs/isogrids/banner/gradient?theme=bythepool&xt=4&h=120&w=120&gx1=0&gy1=0&gy2=60&gx2=60)
 
 Stack
 ======
@@ -282,7 +282,7 @@ Before you start be sure to have the proper rsa key. [See Managing Your SSH Keys
 
     > heroku login
     Enter your Heroku credentials.
-    Email: ga@tinygraphs-prod-tinygraphs-hjze0l.mo2.mogenius.io
+    Email: ga@tinygraphs.fly.dev
     Password:
 
 After that you can deploy as follows:
